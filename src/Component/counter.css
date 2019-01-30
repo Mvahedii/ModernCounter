@@ -1,0 +1,15 @@
+.counter {
+    position: relative;
+
+  }
+  
+.resultAndButton {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+#result {
+      text-align: center;
+  }
